@@ -48,6 +48,7 @@ Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and 
 - ✅ Six Sigma - White Belt
 - ✅ Emergency Management FEMA Certified
 
+![image](https://github.com/user-attachments/assets/a4370365-a341-4689-9820-084703f7ce8a)
 
 ## 💡 What I'm Working On
 
