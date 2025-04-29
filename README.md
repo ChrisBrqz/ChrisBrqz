@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian Borquez
 
-<!--
-**ChrisBrqz/ChrisBrqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cybersecurity Analyst** | 📚 Security+ | 🛡️ Google Cybersecurity Certified  
+Security Operations Associate @ Wells Fargo Advisors | 📍 Charlotte, NC / Spartanburg, SC  
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a cybersecurity professional in training with a background in Information Systems & Management. I’m currently pursuing my CompTIA Security+ certification while gaining real-world experience in a Security Operations Center (SOC) environment.
+
+My focus areas include:
+
+- Threat Detection & Analysis  
+- Security Incident Response  
+- Log & Network Traffic Analysis  
+- Risk Assessment & Compliance  
+- Python for Security Automation  
+
+
+## 🚀 Featured Projects
+
+Here are some of the cybersecurity labs and simulations I've completed:
+
+### 🧾 [Python IP Allow List Cleaner](https://github.com/ChrisBrqz/Python-Security)  
+Automates IP allow list management by parsing and modifying files based on access policies using Python.
+
+### 📧 [Phishing Attempt Analysis](https://github.com/ChrisBrqz/Phishing-Attempt-Analysis)  
+Simulated SOC alert ticket and incident response playbook for handling phishing emails with malware attachments.
+
+### 🔍 [SQL-Based Log Analysis](https://github.com/ChrisBrqz/SQL-Security-Log-Analysis)  
+SQL queries designed to investigate login attempts and detect suspicious activity within a simulated network.
+
+### 🔐 [Linux File Permission Audit](https://github.com/ChrisBrqz/Linux-File-Permissions-Project)  
+File and directory permission hardening using `chmod`, `ls -la`, and Linux security best practices.
+
+### 🌐 [Network Attack Report – SYN Flood](https://github.com/ChrisBrqz/Network-Attack-Report)  
+Analysis of a DoS attack using TCP logs and SYN flooding detection through packet inspection.
+
+### 📋 [Cybersecurity Risk Assessment](https://github.com/ChrisBrqz/Cybersecurity-Risk-Assessment)  
+Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and GDPR standards.
+
+
+
+## 📜 Certifications & Education
+
+- 🎓 B.A. in Information Systems & Management  
+- ✅ Google Cybersecurity Professional Certificate  
+- 🧠 CompTIA Security+ (Studying)
+- ✅ Six Sigma - White Belt
+- ✅ Emergency Management FEMA Certified
+
+
+## 💡 What I'm Working On
+
+- Earning my Security+ Certification  
+- Learning SIEM tools and cloud security concepts  
+- Practicing Python scripting for automation
+- 
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn] linkedin.com/in/christianaborquez/
+- 📧 Email: ChrisBrqz@gmail.com
+- 💻 GitHub: github.com/ChrisBrqz
+
+
+> “Amateurs hack systems. Professionals hack people.” – Bruce Schneier
