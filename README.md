@@ -57,9 +57,9 @@ Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and 
 - 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn] linkedin.com/in/christianaborquez/
+- 🔗 LinkedIn: https://www.linkedin.com/in/christianaborquez/
 - 📧 Email: ChrisBrqz@gmail.com
-- 💻 GitHub: github.com/ChrisBrqz
+- 💻 GitHub: https://www.github.com/ChrisBrqz
 
 
-> “Amateurs hack systems. Professionals hack people.” – Bruce Schneier
+ “Amateurs hack systems. Professionals hack people.” – Bruce Schneier
