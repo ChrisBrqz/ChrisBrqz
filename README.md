@@ -42,7 +42,7 @@ Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and 
 
 ## 📜 Certifications & Education
 
-- 🎓 B.A. in Information Systems & Management  
+- 🎓 B.S. in Information Systems & Management  
 - ✅ Google Cybersecurity Professional Certificate  
 - 🧠 CompTIA Security+ (Studying)
 - ✅ Six Sigma - White Belt
