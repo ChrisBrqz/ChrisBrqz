@@ -1,20 +1,11 @@
 # 👋 Hi, I'm Christian Borquez
 
-**Aspiring Cybersecurity Analyst** | 📚 Security+ | 🛡️ Google Cybersecurity Certified  
-Security Operations Associate @ Wells Fargo Advisors | 📍 Charlotte, NC / Spartanburg, SC  
+**Aspiring Data Analyst** | 📚 Data Analytic Certified | 🛡️ Google Cybersecurity Certified  
+Security Operations Analyst @ Wells Fargo Advisors | 📍 Charlotte, NC / Spartanburg, SC  
 
 About Me
 
-I'm a cybersecurity professional in training with a background in Information Systems & Management. I’m currently pursuing my CompTIA Security+ certification while gaining real-world experience in a Security Operations Center (SOC) environment.
-
-My focus areas include:
-
-- Threat Detection & Analysis  
-- Security Incident Response  
-- Log & Network Traffic Analysis  
-- Risk Assessment & Compliance  
-- Python for Security Automation  
-
+I'm a Data Analyst professional in training with a background in Information Systems & Management
 
 ## 🚀 Featured Projects
 
@@ -39,28 +30,15 @@ Analysis of a DoS attack using TCP logs and SYN flooding detection through packe
 Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and GDPR standards.
 
 
-
 ## 📜 Certifications & Education
 
-- 🎓 B.S. in Information Systems & Management  
+- 🎓 B.S. in Computer Information Systems & Management  
+- ✅ Google Advanced Data Analytics Certificate
 - ✅ Google Cybersecurity Professional Certificate  
-- 🧠 CompTIA Security+ (Studying)
 - ✅ Six Sigma - White Belt
 - ✅ Emergency Management FEMA Certified
 
-![image](https://github.com/user-attachments/assets/a4370365-a341-4689-9820-084703f7ce8a)
-
-## 💡 What I'm Working On
-
-- Earning my Security+ Certification  
-- Learning SIEM tools and cloud security concepts  
-- Practicing Python scripting for automation
-- 
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/christianaborquez/
 - 📧 Email: ChrisBrqz@gmail.com
-- 💻 GitHub: https://www.github.com/ChrisBrqz
-
-
- “Amateurs hack systems. Professionals hack people.” – Bruce Schneier
