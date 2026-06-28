@@ -20,6 +20,9 @@ SQL queries designed to investigate login attempts and detect suspicious activit
 ### 📋 [Data Analytics RACI Matrix](https://github.com/ChrisBrqz/data-analytics-raci-matrix)
 Demonstrates the RACI framework by defining roles and responsibilities across a data analytics team for common project tasks.
 
+### 🚚 [Predictive Maintenance Project Proposal](https://github.com/ChrisBrgz/predictive-maintenance-project-proposal)
+Developed a machine learning project proposal using the PACE framework, including project objectives, milestones, deliverables, stakeholder communication, and a 12-week implementation plan.
+
 ### 🧾 [Python IP Allow List Cleaner](https://github.com/ChrisBrqz/Python-Security)  
 Automates IP allow list management by parsing and modifying files based on access policies using Python.
 
