@@ -23,10 +23,8 @@ SQL queries designed to investigate login attempts and detect suspicious activit
 ### 🔐 [Linux File Permission Audit](https://github.com/ChrisBrqz/Linux-File-Permission-Project)  
 File and directory permission hardening using `chmod`, `ls -la`, and Linux security best practices.
 
-### 📋 Data Analytics RACI Matrix
-Demonstrates the use of the RACI (Responsible, Accountable, Consulted, Informed) framework to define roles and responsibilities within a data analytics team.
-**Skills:** Data Governance • Business Intelligence • Stakeholder Communication • Project Planning
-➡️ **Repository:** [Data Analytics RACI Matrix](https://github.com/ChrisBrqz/data-analytics-raci-matrix)
+### 📋 [Data Analytics RACI Matrix](https://github.com/ChrisBrqz/data-analytics-raci-matrix)
+Demonstrates the RACI framework by defining roles and responsibilities across a data analytics team for common project tasks.
 
 
 ### 📋 [Cybersecurity Risk Assessment](https://github.com/ChrisBrqz/Risk-Assessment-Projet)  
