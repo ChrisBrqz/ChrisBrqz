@@ -9,7 +9,7 @@ I'm a Data Analyst professional in training with a background in Information Sys
 
 ## 🚀 Featured Projects
 
-Here are some of the cybersecurity labs and simulations I've completed:
+Here are some of the Data Analytics Projects along with cybersecurity labs and simulations I've completed:
 
 ### 🧾 [Python IP Allow List Cleaner](https://github.com/ChrisBrqz/Python-Security)  
 Automates IP allow list management by parsing and modifying files based on access policies using Python.
@@ -23,8 +23,11 @@ SQL queries designed to investigate login attempts and detect suspicious activit
 ### 🔐 [Linux File Permission Audit](https://github.com/ChrisBrqz/Linux-File-Permission-Project)  
 File and directory permission hardening using `chmod`, `ls -la`, and Linux security best practices.
 
-### 🌐 [Network Attack Report – SYN Flood](https://github.com/ChrisBrqz/Network-Attack-Simulation)  
-Analysis of a DoS attack using TCP logs and SYN flooding detection through packet inspection.
+### 📋 Data Analytics RACI Matrix
+Demonstrates the use of the RACI (Responsible, Accountable, Consulted, Informed) framework to define roles and responsibilities within a data analytics team.
+**Skills:** Data Governance • Business Intelligence • Stakeholder Communication • Project Planning
+➡️ **Repository:** [Data Analytics RACI Matrix](https://github.com/ChrisBrqz/data-analytics-raci-matrix)
+
 
 ### 📋 [Cybersecurity Risk Assessment](https://github.com/ChrisBrqz/Risk-Assessment-Projet)  
 Comprehensive risk analysis and recommendations based on NIST CSF, PCI DSS, and GDPR standards.
