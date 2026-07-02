@@ -11,7 +11,7 @@ I'm a Data Analyst professional in training with a background in Information Sys
 
 Here are some of the Data Analytics Projects along with cybersecurity labs and simulations I've completed:
 
-### 🎵 [[TikTok Claims Data Analysis](https://github.com/ChrisBrqz/tiktok-claims-data-analysis)](https://github.com/ChrisBrqz/tiktok-data-inspection)
+### 🎵 [TikTok Data Insepection](https://github.com/ChrisBrqz/tiktok-data-inspection)
 Used Python and pandas to inspect and organize a TikTok claims classification dataset in preparation for exploratory data analysis and machine learning. Analyzed engagement metrics, compared claim vs. opinion content, created new features, and summarized findings through a PACE strategy document, Jupyter notebook, and executive summary.
 
 ### 🚕 [Automatidata Taxi Data Analysis](https://github.com/ChrisBrqz/data-inspection-using-Python)
